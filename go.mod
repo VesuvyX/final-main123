@@ -1,4 +1,4 @@
-module final-main
+module github.com/VesuvyX/final-main
 
 go 1.21.5
 
